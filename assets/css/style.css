@@ -170,7 +170,7 @@ padding-right: 8px;
    position: relative;
     margin-top: 46.5px;
     padding-top: 50%;
-    background: url('/w3-band/assets/img/la.jpg') top center /cover no-repeat ;
+    background: url('../img/la.jpg') top center /cover no-repeat ;
 }
  
 #slider .text-content{
