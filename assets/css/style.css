@@ -85,7 +85,6 @@ padding-right: 8px;
     left: 0;
     right: 0;
     z-index: 1;
-    overflow: hidden;
 }
 
 .nav{
@@ -147,10 +146,18 @@ padding-right: 8px;
     font-size: 12px;
 }
 
+#header .menu-mobile-btn{
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 #header .menu-mobile-btn,
 #header .search-btn {
     float: right;
     padding: 0 24px;
+    
 }
 
 #header .menu-mobile-btn:hover .menu-icon{
